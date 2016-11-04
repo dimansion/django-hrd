@@ -1,0 +1,4 @@
+/assets/upload/*
+env
+db.sqlite3
+*.pyc
